@@ -5,7 +5,7 @@ function transform(btn) {
   img.style.opacity = "0";
 
   setTimeout(() => {
-    img.src = "https://via.placeholder.com/300x200.png?text=CYBER+ROBOT+MODE";
+    img.src = "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?auto=format&fit=crop&w=800&q=80";
     img.style.opacity = "1";
   }, 300);
 }
